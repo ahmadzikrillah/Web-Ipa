@@ -18,7 +18,7 @@ export default function Footer() {
               interaktif, dan mudah diakses kapan saja, di mana saja.
             </p>
             <p className="text-slate-500 text-sm">
-              Dibuat dengan <Heart className="w-3 h-3 inline text-red-400" /> untuk pendidikan Indonesia
+              Dibuat dengan <Heart className="w-3 h-3 inline text-red-400" /> oleh AdZikri @team 2026
             </p>
           </div>
 
